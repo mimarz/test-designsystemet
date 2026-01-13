@@ -2,12 +2,12 @@
   "themes": {
     "sample-theme": {
       "colors": {
-        "main": { "primary": "#0062BA" },
+        "main": { "hoved": "#0062BA", "bloodred": "#880808" },
         "neutral": "#24272B"
       },
-      "borderRadius": 4,
+      "borderRadius": 8,
       "typography": {
-        "fontFamily": "Inter"
+        "fontFamily": "Arial"
       }
     }
   }
