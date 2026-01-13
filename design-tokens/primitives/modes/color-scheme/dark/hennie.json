@@ -1,5 +1,5 @@
 {
-  "mia": {
+  "hennie": {
     "hoved": {
       "1": {
         "$type": "color",
@@ -69,63 +69,63 @@
     "bloodred": {
       "1": {
         "$type": "color",
-        "$value": "#2b0f0c"
+        "$value": "#181818"
       },
       "2": {
         "$type": "color",
-        "$value": "#391410"
+        "$value": "#1f1f1f"
       },
       "3": {
         "$type": "color",
-        "$value": "#471914"
+        "$value": "#282828"
       },
       "4": {
         "$type": "color",
-        "$value": "#511d17"
+        "$value": "#2e2e2e"
       },
       "5": {
         "$type": "color",
-        "$value": "#5f211b"
+        "$value": "#353535"
       },
       "6": {
         "$type": "color",
-        "$value": "#762a22"
+        "$value": "#434343"
       },
       "7": {
         "$type": "color",
-        "$value": "#813a33"
+        "$value": "#505050"
       },
       "8": {
         "$type": "color",
-        "$value": "#a77570"
+        "$value": "#818181"
       },
       "9": {
         "$type": "color",
-        "$value": "#c2a09c"
+        "$value": "#a8a8a8"
       },
       "10": {
         "$type": "color",
-        "$value": "#c2a09c"
+        "$value": "#a8a8a8"
       },
       "11": {
         "$type": "color",
-        "$value": "#f2ebea"
+        "$value": "#ececec"
       },
       "12": {
         "$type": "color",
-        "$value": "#d19f9f"
+        "$value": "#ababab"
       },
       "13": {
         "$type": "color",
-        "$value": "#c58686"
+        "$value": "#969696"
       },
       "14": {
         "$type": "color",
-        "$value": "#b86c6c"
+        "$value": "#818181"
       },
       "15": {
         "$type": "color",
-        "$value": "#221a1a"
+        "$value": "#1b1b1b"
       },
       "16": {
         "$type": "color",

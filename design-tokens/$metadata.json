@@ -9,13 +9,19 @@
     "primitives/modes/typography/size/medium",
     "primitives/modes/typography/size/large",
     "primitives/modes/typography/primary/mia",
+    "primitives/modes/typography/primary/hennie",
     "primitives/modes/typography/secondary/mia",
+    "primitives/modes/typography/secondary/hennie",
     "primitives/modes/color-scheme/dark/mia",
+    "primitives/modes/color-scheme/dark/hennie",
     "primitives/modes/color-scheme/light/mia",
+    "primitives/modes/color-scheme/light/hennie",
     "themes/mia",
+    "themes/hennie",
     "semantic/color",
     "semantic/modes/main-color/hoved",
     "semantic/modes/main-color/bloodred",
+    "semantic/modes/main-color/lilla",
     "semantic/style"
   ]
 }

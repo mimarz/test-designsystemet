@@ -132,6 +132,72 @@
         "$value": "{mia.bloodred.16}"
       }
     },
+    "lilla": {
+      "1": {
+        "$type": "color",
+        "$value": "{mia.lilla.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{mia.lilla.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{mia.lilla.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{mia.lilla.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{mia.lilla.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{mia.lilla.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{mia.lilla.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{mia.lilla.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{mia.lilla.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{mia.lilla.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{mia.lilla.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{mia.lilla.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{mia.lilla.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{mia.lilla.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{mia.lilla.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{mia.lilla.16}"
+      }
+    },
     "neutral": {
       "1": {
         "$type": "color",
