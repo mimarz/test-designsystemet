@@ -9,6 +9,16 @@
       "typography": {
         "fontFamily": "Arial"
       }
-    }
+    },
+    "hennie": {
+      "colors": {
+        "main": { "lilla": "#702963" },
+        "neutral": "#24272B"
+      },
+      "borderRadius": 0,
+      "typography": {
+        "fontFamily": "Times New Roman"
+      }
+    },
   }
 }
