@@ -1,69 +1,135 @@
 {
   "color": {
-    "primary": {
+    "hoved": {
       "1": {
         "$type": "color",
-        "$value": "{sample-theme.primary.1}"
+        "$value": "{sample-theme.hoved.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{sample-theme.primary.2}"
+        "$value": "{sample-theme.hoved.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{sample-theme.primary.3}"
+        "$value": "{sample-theme.hoved.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{sample-theme.primary.4}"
+        "$value": "{sample-theme.hoved.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{sample-theme.primary.5}"
+        "$value": "{sample-theme.hoved.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{sample-theme.primary.6}"
+        "$value": "{sample-theme.hoved.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{sample-theme.primary.7}"
+        "$value": "{sample-theme.hoved.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{sample-theme.primary.8}"
+        "$value": "{sample-theme.hoved.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{sample-theme.primary.9}"
+        "$value": "{sample-theme.hoved.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{sample-theme.primary.10}"
+        "$value": "{sample-theme.hoved.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{sample-theme.primary.11}"
+        "$value": "{sample-theme.hoved.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{sample-theme.primary.12}"
+        "$value": "{sample-theme.hoved.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{sample-theme.primary.13}"
+        "$value": "{sample-theme.hoved.13}"
       },
       "14": {
         "$type": "color",
-        "$value": "{sample-theme.primary.14}"
+        "$value": "{sample-theme.hoved.14}"
       },
       "15": {
         "$type": "color",
-        "$value": "{sample-theme.primary.15}"
+        "$value": "{sample-theme.hoved.15}"
       },
       "16": {
         "$type": "color",
-        "$value": "{sample-theme.primary.16}"
+        "$value": "{sample-theme.hoved.16}"
+      }
+    },
+    "bloodred": {
+      "1": {
+        "$type": "color",
+        "$value": "{sample-theme.bloodred.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{sample-theme.bloodred.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{sample-theme.bloodred.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{sample-theme.bloodred.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{sample-theme.bloodred.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{sample-theme.bloodred.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{sample-theme.bloodred.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{sample-theme.bloodred.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{sample-theme.bloodred.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{sample-theme.bloodred.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{sample-theme.bloodred.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{sample-theme.bloodred.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{sample-theme.bloodred.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{sample-theme.bloodred.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{sample-theme.bloodred.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{sample-theme.bloodred.16}"
       }
     },
     "neutral": {
@@ -458,7 +524,7 @@
     },
     "base": {
       "$type": "dimension",
-      "$value": "4"
+      "$value": "8"
     },
     "scale": {
       "$type": "dimension",

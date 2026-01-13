@@ -14,7 +14,8 @@
     "primitives/modes/color-scheme/light/sample-theme",
     "themes/sample-theme",
     "semantic/color",
-    "semantic/modes/main-color/primary",
+    "semantic/modes/main-color/hoved",
+    "semantic/modes/main-color/bloodred",
     "semantic/style"
   ]
 }

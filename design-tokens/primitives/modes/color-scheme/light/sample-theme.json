@@ -1,6 +1,6 @@
 {
   "sample-theme": {
-    "primary": {
+    "hoved": {
       "1": {
         "$type": "color",
         "$value": "#ffffff"
@@ -60,6 +60,72 @@
       "15": {
         "$type": "color",
         "$value": "#dbe9f5"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "#ffffff"
+      }
+    },
+    "bloodred": {
+      "1": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "#f9f2f2"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "#f3e5e5"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "#ebd5d5"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "#e2c3c3"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "#dab2b2"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "#b36161"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "#a13b3b"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "#a13b3b"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "#5d0505"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "#880808"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "#9a2d2d"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "#a84b4b"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "#ecd7d7"
       },
       "16": {
         "$type": "color",

@@ -101,10 +101,18 @@
     "group": "Semantic"
   },
   {
-    "id": "593774a74235b661fff40693ca7bda160aadfb74",
-    "name": "primary",
+    "id": "e1b3cc290ea03005a4a6e1769809cb4fd8539c75",
+    "name": "hoved",
     "selectedTokenSets": {
-      "semantic/modes/main-color/primary": "enabled"
+      "semantic/modes/main-color/hoved": "enabled"
+    },
+    "group": "Main color"
+  },
+  {
+    "id": "3446f71a6f642499fd6da55d7e8f2c5e122ecd79",
+    "name": "bloodred",
+    "selectedTokenSets": {
+      "semantic/modes/main-color/bloodred": "enabled"
     },
     "group": "Main color"
   }
