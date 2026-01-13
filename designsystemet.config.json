@@ -1,6 +1,6 @@
 {
   "themes": {
-    "sample-theme": {
+    "mia": {
       "colors": {
         "main": { "hoved": "#0062BA", "bloodred": "#880808" },
         "neutral": "#24272B"
