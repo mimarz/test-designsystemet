@@ -121,21 +121,5 @@
       "semantic/modes/main-color/hoved": "enabled"
     },
     "group": "Main color"
-  },
-  {
-    "id": "3446f71a6f642499fd6da55d7e8f2c5e122ecd79",
-    "name": "bloodred",
-    "selectedTokenSets": {
-      "semantic/modes/main-color/bloodred": "enabled"
-    },
-    "group": "Main color"
-  },
-  {
-    "id": "5eab9cc1b4ef6d75173787834dc34c4343a2c094",
-    "name": "lilla",
-    "selectedTokenSets": {
-      "semantic/modes/main-color/lilla": "enabled"
-    },
-    "group": "Main color"
   }
 ]

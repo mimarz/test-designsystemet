@@ -20,8 +20,6 @@
     "themes/hennie",
     "semantic/color",
     "semantic/modes/main-color/hoved",
-    "semantic/modes/main-color/bloodred",
-    "semantic/modes/main-color/lilla",
     "semantic/style"
   ]
 }
