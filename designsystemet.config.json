@@ -2,7 +2,7 @@
   "themes": {
     "mia": {
       "colors": {
-        "main": { "hoved": "#0062BA", "bloodred": "#880808" },
+        "main": { "hoved": "#0062BA", "bloodred": "#880808", "lilla": "#702963" },
         "neutral": "#24272B"
       },
       "borderRadius": 8,
@@ -12,7 +12,7 @@
     },
     "hennie": {
       "colors": {
-        "main": { "lilla": "#702963" },
+        "main": { "hoved": "#0062BA", "bloodred": "#000", "lilla": "#702963" },
         "neutral": "#24272B"
       },
       "borderRadius": 0,
